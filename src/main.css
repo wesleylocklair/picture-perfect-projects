@@ -39,6 +39,11 @@
     height: 300px;
     width: 500px;
   }
+
+  .image:hover {
+    box-shadow: 30px;
+    box-shadow: #747bff;
+  }
   
   @media (prefers-color-scheme: light) {
     :root {
